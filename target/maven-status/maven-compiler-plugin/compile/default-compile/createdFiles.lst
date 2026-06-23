@@ -1,0 +1,3 @@
+base/Base.class
+pageObjects/A_Home.class
+pageObjects/B_Filters.class
